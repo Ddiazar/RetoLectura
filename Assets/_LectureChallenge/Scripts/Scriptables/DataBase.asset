@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33dfc3af7941a1745827a9083e7347eb, type: 3}
+  m_Name: DataBase
+  m_EditorClassIdentifier: 
+  m_Stories:
+  - m_Tittle: Peter Pan
+    m_KeyConcepts:
+    - m_Concept: Pirata
+      m_Definition: "Ladr\xF3n o saqueador del mar."
+      m_ConceptImage: {fileID: 21300000, guid: 31156b21adc1b324289d8dde98e4ffd6, type: 3}
+    - m_Concept: Temible
+      m_Definition: Que despierta o causa temor.
+      m_ConceptImage: {fileID: 0}
+    - m_Concept: Colorada
+      m_Definition: "Tener verg\xFCenza"
+      m_ConceptImage: {fileID: 21300000, guid: 21c0bab01bf70ae49861a146ba8b319b, type: 3}
+    - m_Concept: Prisionera
+      m_Definition: "Persona que est\xE1 privada de libertad."
+      m_ConceptImage: {fileID: 21300000, guid: 5a067f7e6fdd7c548acc7fa40880883b, type: 3}
+    - m_Concept: Sirena
+      m_Definition: Mujeres con cola de pez en lugar de piernas.
+      m_ConceptImage: {fileID: 21300000, guid: df4fd876a21cbcc4c81dfd176582f373, type: 3}
+    - m_Concept: Bacalao
+      m_Definition: El bacalao es un pescado blanco y de agua salada.
+      m_ConceptImage: {fileID: 21300000, guid: cbc18a3214b61eb4d82cf7dfdd211784, type: 3}
+    - m_Concept: Cocodrilo
+      m_Definition: "Reptil de gran tama\xF1o, de color marr\xF3n verdoso y piel cubierta
+        de escamas."
+      m_ConceptImage: {fileID: 21300000, guid: 37ebeae061888c048b961b61aa2378a5, type: 3}
+    - m_Concept: Hada
+      m_Definition: "Criatura fant\xE1stica representada en forma de mujer hermosa
+        y bella con alas de mariposa."
+      m_ConceptImage: {fileID: 21300000, guid: 025ce49d6f6107447960d9ddd2cf56c6, type: 3}
+    - m_Concept: Sioux
+      m_Definition: "Pueblo ind\xEDgena americano asentado en los territorios de Estados
+        Unidos."
+      m_ConceptImage: {fileID: 21300000, guid: 0fd128c4c3a07c54b8801e82ca9b6d5e, type: 3}
+    m_TextBlocks:
+    - m_Content: "En las afueras de Londres, viv\xEDan tres hermanos: Wendy, Juan,
+        y Miguel. A Wendy, la hermana mayor, le encantaba contar historias a sus hermanitos."
+      m_AudioContent: {fileID: 8300000, guid: a40cf54bd02f68f4394ac90e1b75d937, type: 3}
+    - m_Content: "Y casi siempre eran sobre aventuras de Peter Pan, un amigo que de
+        vez en cuando la visitaba. Una noche, cuando estaban a punto de acostarse,
+        una preciosa lucecita entr\xF3 en la habitaci\xF3n."
+      m_AudioContent: {fileID: 8300000, guid: 97e5162b794f78245a0b05362435c41a, type: 3}
+    - m_Content: "Y dando saltos de alegr\xEDa, los ni\xF1os gritaron: -\xA1\xA1Es
+        Peter Pan y Campanilla!! "
+      m_AudioContent: {fileID: 8300000, guid: e8107089c9a2c424b881f808ad43cf75, type: 3}
+    - m_Content: "Despu\xE9s de los saludos, Campanilla ech\xF3 polvitos m\xE1gicos
+        en los tres hermanos y ellos empezaron a volar mientras Peter Pan les dec\xEDa:
+        - \xA1Nos vamos al Pa\xEDs de Nunca Jam\xE1s! "
+      m_AudioContent: {fileID: 8300000, guid: 39f069bfe06f24144af6935c8c4a9b53, type: 3}
+    - m_Content: "Los cinco ni\xF1os volaron, volaron, como las cometas por el cielo.
+        Y cuando se encontraban cerca del Pa\xEDs de Nunca Jam\xE1s, Peter les se\xF1al\xF3:
+        - All\xED est\xE1 el barco del temible Capit\xE1n Garfio. "
+      m_AudioContent: {fileID: 8300000, guid: d662877ab107cb24f95b7002d1042f64, type: 3}
+    - m_Content: 'Y dijo a Campanilla: - Por favor, Campanilla, lleva a mis amiguitos
+        a un sitio mas abrigado, mientras yo me libro de este pirata pesado. '
+      m_AudioContent: {fileID: 8300000, guid: 57929fe7d6189ec4abede6d9b4b08ac5, type: 3}
+    - m_Content: "Pero Campanilla se sent\xEDa celosa de las atenciones que Peter
+        ten\xEDa para con Wendy. As\xED que llev\xF3 a los ni\xF1os a la isla y minti\xF3
+        a los Ni\xF1os Perdidos diciendo que Wendy era mala. Creyendo las palabras
+        del hada, ellos empezaron a decir cosas desagradables a la ni\xF1a. Menos
+        mal que Peter lleg\xF3 a tiempo para pararles. Y les pregunt\xF3: - \xBFPorque
+        tratan mal a mi amiga Wendy? "
+      m_AudioContent: {fileID: 8300000, guid: bc4863e4d18abfd48a006669e19f1b96, type: 3}
+    - m_Content: 'Y ellos contestaron: - Es que Campanilla nos dijo que ella era mala. '
+      m_AudioContent: {fileID: 8300000, guid: b5487b036ed7b6e459b09a3cb17ef6d7, type: 3}
+    - m_Content: "Peter Pan se qued\xF3 muy enfadado con Campanilla y le pidi\xF3
+        explicaciones. Campanilla, colorada y arrepentida, pidi\xF3 perd\xF3n a Peter
+        y a sus amigos por lo que hizo."
+      m_AudioContent: {fileID: 8300000, guid: ffd4e4e1a57776448a3db2d424515cbc, type: 3}
+    - m_Content: "Pero la aventura en el Pa\xEDs de Nunca Jam\xE1s solo acababa de
+        empezar. Peter llev\xF3 a sus amiguitos a visitaren la aldea de los indios
+        Sioux. All\xED, encontraron al gran jefe muy triste y preocupado. Y despu\xE9s
+        de que Peter Pan le preguntara sobre lo sucedido, el gran jefe le dijo: -
+        Estoy muy triste porque m\xED hija Lili sali\xF3 de casa por la ma\xF1ana
+        y hasta ahora no la hemos encontrado. "
+      m_AudioContent: {fileID: 8300000, guid: 6542f763c2184ab439f85bc109319074, type: 3}
+    - m_Content: "Como Peter era el que cuidaba de todos en la isla, se comprometi\xF3
+        con el Gran Jefe de encontrar a Lili. Con Wendy, Peter Pan busc\xF3 a la india
+        por toda la isla hasta que la encontr\xF3 prisionera del Capit\xE1n Garfio,
+        en la playa de las sirenas."
+      m_AudioContent: {fileID: 8300000, guid: c9cd0d582e3117244ad3b8cc2c8d6791, type: 3}
+    - m_Content: "Lili estaba amarrada a una roca, mientras Garfio le amenazaba con
+        dejarla all\xED hasta que la marea subiera, si no le contaba donde estaba
+        la casa de Peter Pan. La peque\xF1a india, muy valiente, le contestaba que
+        no iba a dec\xEDrselo. Lo que pon\xEDa furioso al Capit\xE1n. Y cuando parec\xEDa
+        que nada pod\xEDa salvarla, de repente oyeron una voz: - \xA1Eh, Capit\xE1n
+        Garfio, eres un bacalao, un cobarde! \xA1A ver si te atreves conmigo! "
+      m_AudioContent: {fileID: 8300000, guid: 42a9c0bcf39a11740ace47d543f30cfe, type: 3}
+    - m_Content: "Era Peter pan, que ven\xEDa a rescatar a la hija del Gran jefe indio.
+        Despu\xE9s de liberar a Lili de las cuerdas, Peter empez\xF3 a luchar contra
+        Garfio. De pronto, el Capit\xE1n empez\xF3 a o\xEDr el tic tac que tanto le
+        horrorizaba."
+      m_AudioContent: {fileID: 8300000, guid: ac995fe60a0ee024d9a33f6046b3cbd8, type: 3}
+    - m_Content: "Era el cocodrilo que se acercaba dejando a Garfio nervioso. Temblaba
+        tanto que acab\xF3 cay\xE9ndose al mar.Y jam\xE1s se supo nada m\xE1s del
+        Capit\xE1n Garfio."
+      m_AudioContent: {fileID: 8300000, guid: 820721ec5634874498f36cd7a5404e8f, type: 3}
+    - m_Content: "Peter devolvi\xF3 a Lili a su aldea y el padre de la ni\xF1a, muy
+        contento, no sab\xEDa c\xF3mo dar las gracias a \xE9l. As\xED que prepar\xF3
+        una gran fiesta para sus amiguitos, qui\xE9nes bailaron y pasaron muy bien."
+      m_AudioContent: {fileID: 8300000, guid: 2ff3a37ade5eac74da4e2c774ce50290, type: 3}
+    - m_Content: "Pero ya era tarde y los ni\xF1os ten\xEDan que volver a su casa
+        para dormir. Peter Pan y Campanilla los acompa\xF1aron en el viaje de vuelta.
+        Y al despedirse, Peter les dijo: - Aunque crezc\xE1is, no perd\xE1is nunca
+        vuestra fantas\xEDa ni vuestra imaginaci\xF3n. Volver\xE9 para llevaros a
+        una nueva aventura. \xA1Adi\xF3s amigos! "
+      m_AudioContent: {fileID: 8300000, guid: eb128c42ec23d5446ab3afd49cf39393, type: 3}
+    - m_Content: "- \xA1Hasta luego Peter Pan! gritaron los ni\xF1os mientras se met\xEDan
+        debajo de la mantita porque hac\xEDa much\xEDsimo fr\xEDo."
+      m_AudioContent: {fileID: 8300000, guid: 0a34e044fbea86647a9b6cf34321b05b, type: 3}
+    - m_Content: FIN
+      m_AudioContent: {fileID: 8300000, guid: 5e0b7a00342ebef479279495f6cae456, type: 3}
