@@ -14,13 +14,40 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Stories:
   - m_Tittle: Peter Pan
+    m_MainImage: {fileID: 21300000, guid: 032fa13f2166c9546b85849f71c14385, type: 3}
+    m_Summary: "Peter Pan es un ni\xF1o, que tras abandonar a su madre cuando tan
+      solo era un beb\xE9, dej\xF3 de crecer para convertirse en un ni\xF1o por siempre
+      jam\xE1s. Vive en el Pa\xEDs de Nunca Jam\xE1s junto a los Ni\xF1os Perdidos,
+      el hada Campanita y la tropa de piratas controlados por el Capit\xE1n Garfio."
+    m_Misions:
+    - m_Mision: "Descubrir qui\xE9n es Peter Pan"
+      m_Question: "\xBFQui\xE9n es Peter Pan?"
+      m_Alternatives:
+      - "Un ni\xF1o que protege el Pais de Nunca Jamas"
+      - Un pirata
+      - Un cocodrilo
+      m_CorrectAnswer: 0
+    - m_Mision: "Descubrir que le paso al Capit\xE1n G\xE1rfio"
+      m_Question: "\xBFQu\xE9 le paso al Capitan G\xE1rfio?"
+      m_Alternatives:
+      - Se hizo rey de Nunca Jamas
+      - Se hizo amigo de Peter Pan
+      - "Se cayo en el mar y no se supo mas de \xE9l"
+      m_CorrectAnswer: 2
+    - m_Mision: Saber que le paso a la princesa Lili
+      m_Question: "\xBFQu\xE9 le paso a la princesa Lili?"
+      m_Alternatives:
+      - Se escapo de su tribu
+      - "Fue raptada por el Capit\xE1n G\xE1rfio"
+      - Se quedo dormida
+      m_CorrectAnswer: 1
     m_KeyConcepts:
     - m_Concept: Pirata
       m_Definition: "Ladr\xF3n o saqueador del mar."
       m_ConceptImage: {fileID: 21300000, guid: 31156b21adc1b324289d8dde98e4ffd6, type: 3}
     - m_Concept: Temible
       m_Definition: Que despierta o causa temor.
-      m_ConceptImage: {fileID: 0}
+      m_ConceptImage: {fileID: 21300000, guid: ea8663e170e0b224e9a263487a821497, type: 3}
     - m_Concept: Colorada
       m_Definition: "Tener verg\xFCenza"
       m_ConceptImage: {fileID: 21300000, guid: 21c0bab01bf70ae49861a146ba8b319b, type: 3}

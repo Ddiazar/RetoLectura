@@ -1,0 +1,2309 @@
+fileFormatVersion: 2
+guid: f5f1c19ce87450f4b97f8b363746558d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PackCastle01_0
+  - first:
+      213: 21300002
+    second: PackCastle01_1
+  - first:
+      213: 21300004
+    second: PackCastle01_2
+  - first:
+      213: 21300006
+    second: PackCastle01_3
+  - first:
+      213: 21300008
+    second: PackCastle01_4
+  - first:
+      213: 21300010
+    second: PackCastle01_5
+  - first:
+      213: 21300012
+    second: PackCastle01_6
+  - first:
+      213: 21300014
+    second: PackCastle01_7
+  - first:
+      213: 21300016
+    second: PackCastle01_8
+  - first:
+      213: 21300018
+    second: PackCastle01_9
+  - first:
+      213: 21300020
+    second: PackCastle01_10
+  - first:
+      213: 21300022
+    second: PackCastle01_11
+  - first:
+      213: 21300024
+    second: PackCastle01_12
+  - first:
+      213: 21300026
+    second: PackCastle01_13
+  - first:
+      213: 21300028
+    second: PackCastle01_14
+  - first:
+      213: 21300030
+    second: PackCastle01_15
+  - first:
+      213: 21300032
+    second: PackCastle01_16
+  - first:
+      213: 21300034
+    second: PackCastle01_17
+  - first:
+      213: 21300036
+    second: PackCastle01_18
+  - first:
+      213: 21300038
+    second: PackCastle01_19
+  - first:
+      213: 21300040
+    second: PackCastle01_20
+  - first:
+      213: 21300042
+    second: PackCastle01_21
+  - first:
+      213: 21300044
+    second: PackCastle01_22
+  - first:
+      213: 21300046
+    second: PackCastle01_23
+  - first:
+      213: 21300048
+    second: PackCastle01_24
+  - first:
+      213: 21300050
+    second: PackCastle01_25
+  - first:
+      213: 21300052
+    second: PackCastle01_26
+  - first:
+      213: 21300054
+    second: PackCastle01_27
+  - first:
+      213: 21300056
+    second: PackCastle01_28
+  - first:
+      213: 21300058
+    second: PackCastle01_29
+  - first:
+      213: 21300060
+    second: PackCastle01_30
+  - first:
+      213: 21300062
+    second: PackCastle01_31
+  - first:
+      213: 21300064
+    second: PackCastle01_32
+  - first:
+      213: 21300066
+    second: PackCastle01_33
+  - first:
+      213: 21300068
+    second: PackCastle01_34
+  - first:
+      213: 21300070
+    second: PackCastle01_35
+  - first:
+      213: 21300072
+    second: PackCastle01_36
+  - first:
+      213: 21300074
+    second: PackCastle01_37
+  - first:
+      213: 21300076
+    second: PackCastle01_38
+  - first:
+      213: 21300078
+    second: PackCastle01_39
+  - first:
+      213: 21300080
+    second: PackCastle01_40
+  - first:
+      213: 21300082
+    second: PackCastle01_41
+  - first:
+      213: 21300084
+    second: PackCastle01_42
+  - first:
+      213: 21300086
+    second: PackCastle01_43
+  - first:
+      213: 21300088
+    second: PackCastle01_44
+  - first:
+      213: 21300090
+    second: PackCastle01_45
+  - first:
+      213: 21300092
+    second: PackCastle01_46
+  - first:
+      213: 21300094
+    second: PackCastle01_47
+  - first:
+      213: 21300096
+    second: PackCastle01_48
+  - first:
+      213: 21300098
+    second: PackCastle01_49
+  - first:
+      213: 21300100
+    second: PackCastle01_50
+  - first:
+      213: 21300102
+    second: PackCastle01_51
+  - first:
+      213: 21300104
+    second: PackCastle01_52
+  - first:
+      213: 21300106
+    second: PackCastle01_53
+  - first:
+      213: 21300108
+    second: PackCastle01_54
+  - first:
+      213: 21300110
+    second: PackCastle01_55
+  - first:
+      213: 21300112
+    second: PackCastle01_56
+  - first:
+      213: 21300114
+    second: PackCastle01_57
+  - first:
+      213: 21300116
+    second: PackCastle01_58
+  - first:
+      213: 21300118
+    second: PackCastle01_59
+  - first:
+      213: 21300120
+    second: PackCastle01_60
+  - first:
+      213: 21300122
+    second: PackCastle01_61
+  - first:
+      213: 21300124
+    second: PackCastle01_62
+  - first:
+      213: 21300126
+    second: PackCastle01_63
+  - first:
+      213: 21300128
+    second: PackCastle01_64
+  - first:
+      213: 21300130
+    second: PackCastle01_65
+  - first:
+      213: 21300132
+    second: PackCastle01_66
+  - first:
+      213: 21300134
+    second: PackCastle01_67
+  - first:
+      213: 21300136
+    second: PackCastle01_68
+  - first:
+      213: 21300138
+    second: PackCastle01_69
+  - first:
+      213: 21300140
+    second: PackCastle01_70
+  - first:
+      213: 21300142
+    second: PackCastle01_71
+  - first:
+      213: 21300144
+    second: PackCastle01_72
+  - first:
+      213: 21300146
+    second: PackCastle01_73
+  - first:
+      213: 21300148
+    second: PackCastle01_74
+  - first:
+      213: 21300150
+    second: PackCastle01_75
+  - first:
+      213: 21300152
+    second: PackCastle01_76
+  - first:
+      213: 21300154
+    second: PackCastle01_77
+  - first:
+      213: 21300156
+    second: PackCastle01_78
+  - first:
+      213: 21300158
+    second: PackCastle01_79
+  - first:
+      213: 21300160
+    second: PackCastle01_80
+  - first:
+      213: 21300162
+    second: PackCastle01_81
+  - first:
+      213: 21300164
+    second: PackCastle01_82
+  - first:
+      213: 21300166
+    second: PackCastle01_83
+  - first:
+      213: 21300168
+    second: PackCastle01_84
+  - first:
+      213: 21300170
+    second: PackCastle01_85
+  - first:
+      213: 21300172
+    second: PackCastle01_86
+  - first:
+      213: 21300174
+    second: PackCastle01_87
+  - first:
+      213: 21300176
+    second: PackCastle01_88
+  - first:
+      213: 21300178
+    second: PackCastle01_89
+  - first:
+      213: 21300180
+    second: PackCastle01_90
+  - first:
+      213: 21300182
+    second: PackCastle01_91
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PackCastle01_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 851
+        width: 91
+        height: 110
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9fd89cf87f5da42a0dae66114949c0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 851
+        width: 128
+        height: 108
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c95cc6346cd62408070eedf9ba96db
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 819
+        width: 95
+        height: 197
+      alignment: 9
+      pivot: {x: 0.51868606, y: 0.05985225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462d74e607c05844881368a035db1588
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 851
+        width: 137
+        height: 168
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaffa3ca648ba14cb15bf039d3928fe
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 851
+        width: 100
+        height: 160
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb1261b2a5ec2d4b846fc9d7b000837
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_5
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 851
+        width: 150
+        height: 139
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b2c58d5fdaaa040b9c9dd7436573bd
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_6
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 851
+        width: 107
+        height: 131
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b059d281070bfb440bc0cb2b9bc834c4
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 801
+        width: 10
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5f6a29e5c402446b31a8cf823787b9
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 765
+        width: 73
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ebf5b65cfbf649aad8c4ae262d285
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 618
+        width: 20
+        height: 190
+      alignment: 9
+      pivot: {x: 0.56287843, y: 0.14838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e95e22aac4b84085f4ed55a1d6aa3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 762
+        width: 65
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c447622fc13fdf4c8e0066b72edfe6f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 802
+        width: 25
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d104f1cdc12e0ac469a28cf1885e4c76
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 723
+        width: 45
+        height: 40
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2023c168e19bc9e479d1b21b7301df5c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 759
+        width: 65
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926c71c93521b1d429f7d795b5b6d439
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 784
+        width: 46
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938eb3048aecf984582625269fb7bf67
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_15
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 738
+        width: 73
+        height: 80
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0659a0a1e2a2b8d44b08f19885b43953
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_16
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 754
+        width: 104
+        height: 72
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd2cf987bae43e4183cdf4bfa3d2cfd
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 783
+        width: 11
+        height: 14
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5a50983f4432e4bb151431cd5ad949
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 752
+        width: 73
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66747ceb6e66a8a48b37505867f87e97
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 775
+        width: 22
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b222ce6f2d3302e4b9ab059c7208652e
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 771
+        width: 10
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df916915b59ff4884b0161dbc0b525
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 719
+        width: 75
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac88c4fde57b4a347a4aac0bacfaba07
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 712
+        width: 30
+        height: 44
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b77ca4d201cd60438a2b2e8254839ba
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 707
+        width: 63
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c58d8bbf6f6f43b65a7981c2e22c2
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 715
+        width: 19
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0407cc70d7363fc48be7c62f3c8d6ab0
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 693
+        width: 30
+        height: 44
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5686208ee0b39b842814ba3715543f30
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 689
+        width: 67
+        height: 51
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b06995135d0d4183f564f3adc3e8c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 707
+        width: 50
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3175260e548842f4d8b7450adf867947
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 630
+        width: 71
+        height: 75
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4478104e14a5bae48896b01c7dfeb803
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_29
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 678
+        width: 67
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a2b4aff3afded449da30cb1c2db232
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_30
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 726
+        width: 27
+        height: 30
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6936e3897542e42866ae2912178075
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_31
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 710
+        width: 64
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5cde5df78b2a543a4408c90ceadc11
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_32
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 720
+        width: 26
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f12cb1d592fb954783e8b840e11ec2d
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 674
+        width: 63
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cf96c1ae74b5e4a93118bf637a2c7e
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 686
+        width: 29
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca8b5900c653ae4482c8a117d7550d4
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_35
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 646
+        width: 68
+        height: 70
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae02bee9bdda4e6458fdb7c5da377a87
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_36
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 639
+        width: 52
+        height: 74
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d551eb813ea414ab3eace01af51367
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_37
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 661
+        width: 30
+        height: 44
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781741b0127dfbf46b1486afd234f67a
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_38
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 683
+        width: 42
+        height: 38
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6a492c2edaca84a9185afc6d54d601
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_39
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 672
+        width: 24
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5969e429ae12dd34696acd3bfd0bd60e
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 648
+        width: 6
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f939ec71f3bdc144cb3d34bb11736216
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 648
+        width: 6
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ec523766b86e64b8770f5d46ea9ed6
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_42
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 664
+        width: 6
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717e69cb1798add47b05b9a5b5c4433e
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 627
+        width: 53
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2550440bb6e3f3498c4948366e6e8ec
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_44
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 649
+        width: 9
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afc6124df99387448388da2c1eb2863
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 649
+        width: 9
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae17a6cdea67e14a8a68d5070f25394
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 651
+        width: 19
+        height: 32
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6ba331fe7968b4f934c2f354bc1848
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_47
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 627
+        width: 50
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d93fb4339bfeb41a9602d0f62730c4
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_48
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 630
+        width: 71
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace817039aae1648a7cb793bb654dfa
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 627
+        width: 24
+        height: 28
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a1562cee0ef0349a06c952afa6cf87
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_50
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 580
+        width: 61
+        height: 69
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7831db5a06cb46c4aa5b9af06074f609
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_51
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 645
+        width: 6
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05bc57decee5c74883f2ad600023469
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 624
+        width: 86
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd8a4863a7c3ff43be9eb95e9b18f01
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_53
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 597
+        width: 6
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5c3815af0dc574e9c99fe143b9186e
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 423
+        width: 155
+        height: 112
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1595b433db3564d97f23f0c74449d2
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 423
+        width: 157
+        height: 110
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118fdca2b71dd242a921e5034838b27
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_56
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 423
+        width: 164
+        height: 108
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c99bdf027731704d9e5b1c12995a4e7
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_57
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 423
+        width: 143
+        height: 156
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac78401f92631e41a458fec408cf036
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_58
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 423
+        width: 146
+        height: 129
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ccf7cc28ae3444ad972033cc32896
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_59
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 423
+        width: 121
+        height: 133
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20393d217a0bbd469f82cc44a08ea2e
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 338
+        width: 64
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e8efc5250b944d85f1f41a82d5b2e
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 359
+        width: 118
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abef7ba9929ff844686db5902bf4c6ed
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_62
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 377
+        width: 6
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed04574114c740488095d0f8f0cbc82
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_63
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 369
+        width: 34
+        height: 35
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d42f6a2766b0248acf12e4939b59af
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_64
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 358
+        width: 65
+        height: 60
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dd7383ac5da594e9632c768a6aa44e
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_65
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 347
+        width: 51
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3e5b8396a445e4fbce3233640c7936
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_66
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 358
+        width: 36
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e063c7ce032c5fb4a9d6913f047f0f65
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_67
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 363
+        width: 84
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60bcb06e1fc4e24899e3d1392bb42b6
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 271
+        width: 72
+        height: 65
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cbdc24f8f003d48ab952e1ba9204cd
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_69
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 300
+        width: 69
+        height: 71
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f27a82dd01cfc142a37db47b9d68943
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_70
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 343
+        width: 77
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3099daad435902440952c084af982e85
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_71
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 349
+        width: 26
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab14b26c701451a4fb24f0f266418c1b
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_72
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 327
+        width: 19
+        height: 32
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be184b4ae2f969741b235dad447e03fb
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_73
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 300
+        width: 42
+        height: 38
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902a66b60308644449ce5e59461cb6e4
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_74
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 243
+        width: 76
+        height: 89
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284e0a540bfd2cd428a5167b20ff5d2e
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_75
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 213
+        width: 77
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b704b3ce838b04eb3a2c6c4d5f121d
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_76
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 295
+        width: 11
+        height: 30
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75ce86bd99666a4e9bbc2ea5ffffc69
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_77
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 295
+        width: 10
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eb7dfb4c0cdde40bfbfe768b87ef77
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_78
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 300
+        width: 84
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ff6ea52a6b46b4fb81db2a05c14b94
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_79
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 266
+        width: 89
+        height: 54
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39fed122f6d94b4fb3baed3477953b7
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 152
+        width: 171
+        height: 127
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec84d145f3741c42b6e87864e24f81d
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 112
+        width: 153
+        height: 146
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04e2d7d09387e44b2eec8ea2f62613
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_82
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 257
+        width: 41
+        height: 37
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb629d39882f38c44a4d972b6e14507a
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_83
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 156
+        width: 65
+        height: 87
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea1c7927185b4842b656bad1c5df895
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_84
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 197
+        width: 41
+        height: 50
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf491fe140733546a86e6229ea3e521
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_85
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 196
+        width: 61
+        height: 51
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3927d7e538c234d8ccd34de3d7094c
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_86
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 80
+        height: 86
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c688fd2139e84cb5dcc56175b610a
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_87
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 81
+        width: 75
+        height: 67
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89df3f09ea5b056448417c5b2f83679b
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_88
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 20
+        width: 70
+        height: 81
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dc329c37c7c2248a36ed75a9f63dfc
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_89
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 97
+        width: 30
+        height: 44
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027736cbda43742429ff5dc6e6d3384e
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_90
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 98
+        width: 24
+        height: 28
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f2963660a36324ca69cbf706f94189
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackCastle01_91
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 848
+        width: 161
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c8d29f45d24246a875730532ca34c
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,6 +8,7 @@ public class TimerController : MonoBehaviour
     private float m_Time = 10.0f;
     public Text m_TimerText;
     private float m_StartTime;
+    private bool m_IsActive = false;
 
     // Start is called before the first frame update
     void Start()
@@ -18,21 +19,31 @@ public class TimerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Time.time - m_StartTime < m_Time)
+        if(m_IsActive)
         {
-            int timeToFinish = (int)(m_Time - (Time.time - m_StartTime));
-
-            if(timeToFinish < 0)
+            if (Time.time - m_StartTime < m_Time)
             {
-                timeToFinish = 0;
-            }
+                int timeToFinish = (int)(m_Time - (Time.time - m_StartTime));
 
-            m_TimerText.text = timeToFinish.ToString();
+                if (timeToFinish < 0)
+                {
+                    timeToFinish = 0;
+                }
+
+                m_TimerText.text = timeToFinish.ToString();
+            }
+            else
+            {
+                m_IsActive = false;
+            }
         }
+        
     }
 
-    public void StartTimer()
+    public void StartTimer(float blockTime)
     {
         m_StartTime = Time.time;
+        m_IsActive = true;
+        m_Time = blockTime;
     }
 }
