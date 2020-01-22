@@ -7,39 +7,46 @@ public class LectureController : MonoBehaviour
 {
     private int m_StoriesIndex = 0;
     private int m_StoriesBlock = 0;
+
+    [Header("Stories Database")]
     public DataBaseStories m_DataBase;
 
-    public Text m_SimpleText;
-    public Text m_Tittle;
-
-    private char[] m_LettersArray;
-    private float m_TimeToHighLight = 0.55f;
-    public Text m_HighLightedText;
-
-    private AudioSource m_AudioSource;
-
+    [Header("Start Panel")]
     public GameObject m_StartPanel;
 
+    [Header("Main Menu")]
     public GameObject m_Menu;
 
+    [Header("Key Concept")]
     public KeyConcept m_KeyConcept;
     private int m_KeyConceptIndex = 0;
 
+    [Header("Summary")]
     public GameObject m_Summary;
     public Image m_SummaryImage;
     public Text m_SummaryText;
     public Button m_SummaryNext;
 
+    [Header("Mission")]
     public GameObject m_Misions;
     public Transform m_MisionsReference;
     public GameObject m_MisionPrefab;
     public Button m_StartGame;
 
+    [Header("Story")]
     public GameObject m_Story;
     private string inputText = "";
     public Button m_NextBlock;
     public Button m_LectureGuide;
+    public Button m_FinishButton;
+    public Text m_SimpleText;
+    public Text m_Tittle;
+    private char[] m_LettersArray;
+    private float m_TimeToHighLight = 0.55f;
+    public Text m_HighLightedText;
+    private AudioSource m_AudioSource;
 
+    [Header("Trivial")]
     public GameObject m_Trivial;
     public Text m_Question;
     public Transform m_AlternativeReference;
@@ -48,12 +55,16 @@ public class LectureController : MonoBehaviour
     public Image m_CorrectAlternative;
     public Image m_IncorrectAlternative;
 
+    [Header("Results")]
     public GameObject m_Results;
     public Text m_FinalScore;
+    public Text m_FinalTime;
     public List<GameObject> m_Stars;
 
+    [Header("Timer")]
     public TimerController m_Timer;
     private int m_Score = 0;
+    private float m_TimeRecord = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -93,12 +104,21 @@ public class LectureController : MonoBehaviour
         inputText = GetStoryContent(m_StoriesIndex, m_StoriesBlock);
         m_Tittle.text = GetTittle(m_StoriesIndex);
         m_AudioSource.clip = GetStoryAudioContent(m_StoriesIndex, m_StoriesBlock);
-        //m_Timer.StartTimer(m_AudioSource.clip.length * 1.2f);
+        m_Timer.StartTimer(m_AudioSource.clip.length * 1.2f);
         m_TimeToHighLight = (m_AudioSource.clip.length / inputText.ToCharArray().Length) * 0.75f;
 
         m_SimpleText.text = inputText;
         m_LettersArray = inputText.ToCharArray();
         //HightLightByLetters();
+    }
+
+    public void ActiveStoryGuide()
+    {
+        m_TimeRecord += m_Timer.m_CurrentTime;
+        m_Timer.m_IsActive = false;
+        m_FinishButton.gameObject.SetActive(false);
+        print(m_TimeRecord);
+        m_LectureGuide.gameObject.SetActive(true);
     }
 
     public void LoadNextStoryBlock()
@@ -112,11 +132,13 @@ public class LectureController : MonoBehaviour
 
             inputText = GetStoryContent(m_StoriesIndex, m_StoriesBlock);
             m_AudioSource.clip = GetStoryAudioContent(m_StoriesIndex, m_StoriesBlock);
+            m_Timer.StartTimer(m_AudioSource.clip.length * 1.2f);
+            m_FinishButton.gameObject.SetActive(true);
             m_SimpleText.text = inputText;
             m_LettersArray = inputText.ToCharArray();
             //HightLightByLetters();
             m_NextBlock.gameObject.SetActive(false);
-            m_LectureGuide.gameObject.SetActive(true);
+            //m_LectureGuide.gameObject.SetActive(true);
         }        
         else
         {
@@ -324,7 +346,9 @@ public class LectureController : MonoBehaviour
 
         m_Results.SetActive(true);
         m_FinalScore.text = m_Score.ToString();
-        
+        m_FinalTime.text = "Mejor Tiempo: " + Mathf.Round(m_TimeRecord).ToString();
+
+
         for (int i = 0; i < m_Score; i++)
         {
             m_Stars[i].SetActive(true);
@@ -340,5 +364,6 @@ public class LectureController : MonoBehaviour
         {
             level.InitializeValues();
         }
+        m_TimeRecord = 0.0f;
     }
 }
