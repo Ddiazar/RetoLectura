@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33dfc3af7941a1745827a9083e7347eb, type: 3}
+  m_Name: DataBase 1
+  m_EditorClassIdentifier: 
+  m_Stories:
+  - m_Tittle: Peter Pan
+    m_MainImage: {fileID: 21300000, guid: 032fa13f2166c9546b85849f71c14385, type: 3}
+    m_Summary: "Peter Pan es un ni\xF1o, que tras abandonar a su madre cuando tan
+      solo era un beb\xE9, dej\xF3 de crecer para convertirse en un ni\xF1o por siempre
+      jam\xE1s. Vive en el Pa\xEDs de Nunca Jam\xE1s junto a los Ni\xF1os Perdidos,
+      el hada Campanita y la tropa de piratas controlados por el Capit\xE1n Garfio."
+    m_Misions:
+    - m_Mision: "Descubrir qui\xE9n es Peter Pan"
+      m_Question: "\xBFQui\xE9n es Peter Pan?"
+      m_Alternatives:
+      - "Un ni\xF1o que protege el Pais de Nunca Jamas"
+      - Un pirata
+      - Un cocodrilo
+      m_CorrectAnswer: 0
+    - m_Mision: "Descubrir que le paso al Capit\xE1n G\xE1rfio"
+      m_Question: "\xBFQu\xE9 le paso al Capitan G\xE1rfio?"
+      m_Alternatives:
+      - Se hizo rey de Nunca Jamas
+      - Se hizo amigo de Peter Pan
+      - "Se cayo en el mar y no se supo mas de \xE9l"
+      m_CorrectAnswer: 2
+    - m_Mision: Saber que le paso a la princesa Lili
+      m_Question: "\xBFQu\xE9 le paso a la princesa Lili?"
+      m_Alternatives:
+      - Se escapo de su tribu
+      - "Fue raptada por el Capit\xE1n G\xE1rfio"
+      - Se quedo dormida
+      m_CorrectAnswer: 1
+    m_KeyConcepts:
+    - m_Concept: Pirata
+      m_Definition: "Ladr\xF3n o saqueador del mar."
+      m_ConceptImage: {fileID: 21300000, guid: 31156b21adc1b324289d8dde98e4ffd6, type: 3}
+    - m_Concept: Temible
+      m_Definition: Que despierta o causa temor.
+      m_ConceptImage: {fileID: 21300000, guid: ea8663e170e0b224e9a263487a821497, type: 3}
+    - m_Concept: Colorada
+      m_Definition: "Tener verg\xFCenza"
+      m_ConceptImage: {fileID: 21300000, guid: 21c0bab01bf70ae49861a146ba8b319b, type: 3}
+    - m_Concept: Prisionera
+      m_Definition: "Persona que est\xE1 privada de libertad."
+      m_ConceptImage: {fileID: 21300000, guid: 5a067f7e6fdd7c548acc7fa40880883b, type: 3}
+    - m_Concept: Sirena
+      m_Definition: Mujeres con cola de pez en lugar de piernas.
+      m_ConceptImage: {fileID: 21300000, guid: df4fd876a21cbcc4c81dfd176582f373, type: 3}
+    - m_Concept: Bacalao
+      m_Definition: El bacalao es un pescado blanco y de agua salada.
+      m_ConceptImage: {fileID: 21300000, guid: cbc18a3214b61eb4d82cf7dfdd211784, type: 3}
+    - m_Concept: Cocodrilo
+      m_Definition: "Reptil de gran tama\xF1o, de color marr\xF3n verdoso y piel cubierta
+        de escamas."
+      m_ConceptImage: {fileID: 21300000, guid: 37ebeae061888c048b961b61aa2378a5, type: 3}
+    - m_Concept: Hada
+      m_Definition: "Criatura fant\xE1stica representada en forma de mujer hermosa
+        y bella con alas de mariposa."
+      m_ConceptImage: {fileID: 21300000, guid: 025ce49d6f6107447960d9ddd2cf56c6, type: 3}
+    - m_Concept: Sioux
+      m_Definition: "Pueblo ind\xEDgena americano asentado en los territorios de Estados
+        Unidos."
+      m_ConceptImage: {fileID: 21300000, guid: 0fd128c4c3a07c54b8801e82ca9b6d5e, type: 3}
+    m_TextBlocks:
+    - m_Content: "En las afueras de Londres, viv\xEDan tres hermanos: Wendy, Juan,
+        y Miguel. A Wendy, la hermana mayor, le encantaba contar historias a sus hermanitos."
+      m_AudioContent: {fileID: 8300000, guid: a40cf54bd02f68f4394ac90e1b75d937, type: 3}
+    - m_Content: "Y casi siempre eran sobre aventuras de Peter Pan, un amigo que de
+        vez en cuando la visitaba. Una noche, cuando estaban a punto de acostarse,
+        una preciosa lucecita entr\xF3 en la habitaci\xF3n."
+      m_AudioContent: {fileID: 8300000, guid: 97e5162b794f78245a0b05362435c41a, type: 3}
+    - m_Content: "Y dando saltos de alegr\xEDa, los ni\xF1os gritaron: -\xA1\xA1Es
+        Peter Pan y Campanilla!! "
+      m_AudioContent: {fileID: 8300000, guid: e8107089c9a2c424b881f808ad43cf75, type: 3}

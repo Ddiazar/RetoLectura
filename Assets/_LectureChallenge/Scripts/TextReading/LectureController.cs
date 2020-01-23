@@ -123,8 +123,8 @@ public class LectureController : MonoBehaviour
 
     public void LoadNextStoryBlock()
     {
-        //if(m_StoriesBlock < m_DataBase.m_Stories[m_StoriesIndex].m_TextBlocks.Count - 1)
-        if(m_StoriesBlock < 2)
+        if(m_StoriesBlock < m_DataBase.m_Stories[m_StoriesIndex].m_TextBlocks.Count - 1)
+        //if(m_StoriesBlock < 2)
         {
             m_StoriesBlock++;
             m_HighLightedText.text = "";
